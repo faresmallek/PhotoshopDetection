@@ -5,7 +5,7 @@ Replication of the paper [Detecting Photoshopped Faces by Scripting Photoshop](h
 
 **Training**
 
-First, You have to upload the real and fake datasets, each in a different folder with the same names.
+First, You have to upload the real and fake datasets, each in a different folder (*****/Fake and *****/Real) with the same files names of images.
 Change the ***** with your specific path in your drive.
 Download this pretrained models and upload it to your drive:
 
