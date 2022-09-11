@@ -10,6 +10,8 @@ Download this pretrained models and upload it to your drive (in the right path):
 https://drive.google.com/file/d/1NeSeA_ykKU3zYkizVMiqFhdDhoes1C7h/view?usp=sharing
 https://drive.google.com/file/d/1NeSeA_ykKU3zYkizVMiqFhdDhoes1C7h/view?usp=sharing
 
+<video src='your URL here' width=180/>
+
 
 A) Acknowledgments
 This colab code borrows partially from:
