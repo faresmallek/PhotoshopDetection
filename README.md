@@ -1,9 +1,9 @@
 # PhotoshopDetection
 Replication of the paper [Detecting Photoshopped Faces by Scripting Photoshop](https://peterwang512.github.io/FALdetector/)
 
-#Get Started
+**Get Started**
 
-##Training
+**Training**
 
 First, You have to upload the real and fake datasets, each in a different folder with the same names.
 Change the ***** with your specific path in your drive.
