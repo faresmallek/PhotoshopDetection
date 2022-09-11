@@ -1,5 +1,5 @@
 # PhotoshopDetection
-Replication of the paper ["Detecting Photoshopped Faces by Scripting Photoshop."] (https://peterwang512.github.io/FALdetector/)
+Replication of the paper [Detecting Photoshopped Faces by Scripting Photoshop](https://peterwang512.github.io/FALdetector/)
 
 Get Started
 
