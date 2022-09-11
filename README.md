@@ -10,8 +10,7 @@ Download this pretrained models and upload it to your drive:
 https://drive.google.com/file/d/1NeSeA_ykKU3zYkizVMiqFhdDhoes1C7h/view?usp=sharing
 https://drive.google.com/file/d/1NeSeA_ykKU3zYkizVMiqFhdDhoes1C7h/view?usp=sharing
 
-<gif src='[demo test after training](https://github.com/faresmallek/PhotoshopDetection/blob/main/photoshop.gif)' width=180/>
-
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/faresmallek/PhotoshopDetection/blob/main/photoshop.gif))
 
 A) Acknowledgments
 This colab code borrows partially from:
